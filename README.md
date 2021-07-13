@@ -1,6 +1,6 @@
-## Bienvenido al repositorio de JC
+## Bienvenido al repositorio de JC! :monocle_face:
 
-\*\*Instalación:
+_Instalación_:
 
 Debes tener instalado COMPOSER una vez hayas clonado el proyecto, posteriormente ejecutar el comando:
 
@@ -22,5 +22,6 @@ Algunos testimonios sobre el tutorial:
 
 **Nicolas Lasso**
 
-> hace 9 meses
-> Yo hice el curso y es excelente aprendí muchísimo y muy bien explicado y muy completo. Recomendadísi.
+> hace 9 meses Yo hice el curso y es excelente aprendí muchísimo y muy bien explicado y muy completo. Recomendadísi.
+
+![imagen de prueba](imgs/img1.jpg)
